@@ -198,15 +198,15 @@ run the code
 
 ![image](https://github.com/user-attachments/assets/ef1ebfa4-2020-43fc-a12d-802e30662eba)
 
-2.Create a New Project: Click on "Get Started" and select "Image Model" under the "New Project" section 3.Select Model Type: Choose the "Standard Image Model" option. image
+## 2.Create a New Project: Click on "Get Started" and select "Image Model" under the "New Project" section 3.Select Model Type: Choose the "Standard Image Model" option. image
 
 ![image](https://github.com/user-attachments/assets/7c9d2a31-e40a-4e17-a9b0-54628adfe6de)
 
-3.Label Examples: Assign labels to each example image
+## 3.Label Examples: Assign labels to each example image
 
 ![image](https://github.com/user-attachments/assets/8729ef01-315c-4470-87a2-b8982fe6a982)
 
-4.Export the Model: Once training is complete, click on "Export the Model" and download the model files (a .zip file containing the model weights (.h5) and labels (.txt) files) image
+## 4.Export the Model: Once training is complete, click on "Export the Model" and download the model files (a .zip file containing the model weights (.h5) and labels (.txt) files) image
 
 
 ## Implementation in Python 
